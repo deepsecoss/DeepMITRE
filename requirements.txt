@@ -1,0 +1,12 @@
+numpy
+matplotlib
+pandas
+scikit-learn
+torch
+requests
+streamlit==1.42.0
+boto3
+requests
+torch-model-archiver 
+torch-workflow-archiver
+seaborn
